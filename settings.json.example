@@ -1,0 +1,8 @@
+{
+    "AUTHORIZED_USERS": [
+        "<Usernames of the authorized users>"
+    ],
+    "TOKEN": "<Bot token from BotFather>",
+    "YTDLP_PATH": "/usr/local/bin/yt-dlp",
+    "DOWNLOAD_DIR": "/tmp/downloads/"
+}
